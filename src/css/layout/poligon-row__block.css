@@ -1,0 +1,13 @@
+.poligon-row__block {
+  display: block;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  background-color: antiquewhite;
+}
+
+@media (max-width: 700px) {
+  .poligon-row__block {
+    border-style: dashed;
+  }
+}
