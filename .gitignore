@@ -1,0 +1,17 @@
+# Archives, distributions 
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Data bases, logs
+logs
+*.log
+*.sql
+
+# Node modules
+node_modules/
